@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/procedural-generation-scratchpad/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/procedural-generation-scratchpad/static/js/main.a1f7270c.chunk.js",
+    "main.js.map": "/procedural-generation-scratchpad/static/js/main.a1f7270c.chunk.js.map",
+    "runtime-main.js": "/procedural-generation-scratchpad/static/js/runtime-main.7b7f2dd2.js",
+    "runtime-main.js.map": "/procedural-generation-scratchpad/static/js/runtime-main.7b7f2dd2.js.map",
+    "static/css/2.69121389.chunk.css": "/procedural-generation-scratchpad/static/css/2.69121389.chunk.css",
+    "static/js/2.be505e01.chunk.js": "/procedural-generation-scratchpad/static/js/2.be505e01.chunk.js",
+    "static/js/2.be505e01.chunk.js.map": "/procedural-generation-scratchpad/static/js/2.be505e01.chunk.js.map",
+    "index.html": "/procedural-generation-scratchpad/index.html",
+    "precache-manifest.e4c98cf4509cb951b93aff70a9a24183.js": "/procedural-generation-scratchpad/precache-manifest.e4c98cf4509cb951b93aff70a9a24183.js",
+    "service-worker.js": "/procedural-generation-scratchpad/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/procedural-generation-scratchpad/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/procedural-generation-scratchpad/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.be505e01.chunk.js.LICENSE.txt": "/procedural-generation-scratchpad/static/js/2.be505e01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b7f2dd2.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.be505e01.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a1f7270c.chunk.js"
+  ]
+}
